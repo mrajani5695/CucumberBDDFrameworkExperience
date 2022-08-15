@@ -11,6 +11,8 @@ import awsomecucumber.pages.StorePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 
+//Miten
+
 public class StoreStepDefination {
 	
 	private final WebDriver driver;

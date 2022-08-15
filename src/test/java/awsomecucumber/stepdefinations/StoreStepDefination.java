@@ -11,7 +11,7 @@ import awsomecucumber.pages.StorePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 
-//Miten
+//Final Build
 
 public class StoreStepDefination {
 	
